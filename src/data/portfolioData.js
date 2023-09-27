@@ -12,10 +12,10 @@ export const portfolioData = [
   {
     id: 2,
     name: "DouzePointCinq",
-    address: "https://www.12p5.com",
+    address: "https://www.douzepointcinq.com",
     languages: ["css", "rails", "html"],
     languagesIcons: ["fab fa-css3-alt", "devicon-rails-plain"],
-    source: "https://www.12p5.com",
+    source: "https://www.douzepointcinq.com",
     info: "12.5, c’est le premier service de stationnement en parkings souterrains, à accès sécurisé, pensé pour les deux-roues : vélo, scooter, moto, trottinette.",
     picture: "/media/12p5.gif",
   },
